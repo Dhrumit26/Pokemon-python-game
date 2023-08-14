@@ -1,10 +1,4 @@
-'''
-Dhrumit Mukeshbhai Savaliya
-Rafa Gabriel Adrid
 
-Dhrumit - I completed main.py / fire.py / grass.py / water.py
-Rafa Gabriel Adrid - I completed pokemon.py
-'''
 
 
 import random
